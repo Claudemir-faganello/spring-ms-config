@@ -3,4 +3,4 @@ spring:
     name: greeting-service
 greeting-service:
   greeting: "Ola"
-  default-value: "qa"
+  default-value: "Qa atualizado"
